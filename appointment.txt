@@ -1,0 +1,17 @@
+10001/Shane/28-March-2024/11 A.M./Maisie/Blender/100/Unpaid/0/0
+10002/Jaeden/23-March-2024/10 A.M./Chen Long/Blender/100/Unpaid/0/0
+10003/Daryl/29-March-2024/1 P.M./Maisie/Dryer/300/Unpaid/0/0
+10004/Eugene/29-March-2024/9 A.M./Maisie/Dryer/300/Unpaid/0/0
+10005/Daryl/31-March-2024/11 A.M./Gojo/Air Conditioner/500/Unpaid/0/0
+10006/Eugene/31-March-2024/11 A.M./Maisie/Air Fryer/150/Unpaid/0/0
+10007/Eugene/31-March-2024/11 A.M./Chen Long/Air Fryer/150/Unpaid/0/0
+10008/Daryl/01-April-2024/10 A.M./Gojo/Air Fryer/150/Unpaid/0/0
+10009/Shane/31-March-2024/1 P.M./Maisie/Electric Kettle/50/Unpaid/0/0
+10010/Jaeden/01-April-2024/1 P.M./Gojo/Fan/60/Unpaid/0/0
+10011/Abhishek/02-April-2024/11 A.M./Chen Long/Microwave/90/Unpaid/0/0
+10012/Eugene/02-April-2024/2 P.M./Chen Long/Refrigerator/450/Unpaid/0/0
+10013/Daryl/03-April-2024/2 P.M./Maisie/Washing Machine/600/Paid/700/100
+10014/hi/04-April-2024/9 A.M./Chen Long/Dryer/300/Unpaid/0/0
+10015/bye/04-April-2024/2 P.M./Chen Long/Blender/100/Unpaid/0/0
+10016/Eugene/05-April-2024/9 A.M./Gojo/Air Fryer/150/Unpaid/0/0
+10017/Shane/06-April-2024/3 P.M./Maisie/Fan/60/Paid/66/6
